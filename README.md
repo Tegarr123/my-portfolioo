@@ -20,3 +20,9 @@ I primarily leverage **the power and versatility of Python** to create efficient
 - **Brief Overview** : I created document detailing the design and implementation of a data warehouse (DW) for a university's independent internship program, focusing on two main business processes, the submission of final internship reports and the conversion of internship credits to course credits. I also built complex ETL flow with Pentaho as a Low-Code Data Integration tool, from data source [dummy] to data warehouse (mysql).
 - **Technology Used** : MySQL, Pentaho
 - **Final Result** : [*Project Document*](https://drive.google.com/file/d/1nQm88bZVbhyBb3djz6_sZ_MamdKQSy5g/view?usp=sharing)
+
+### [Data Warehouse Course Final Project - FRS (Study PLan Form) Data Warehouse, ETL, and Dashboard Project](https://drive.google.com/file/d/1mr6tV--oM9Ad2tPBzIO4XlhvCP9oRATN/view?usp=sharing)
+
+- **Brief Overview** : This project involved 8 members aiming to design and implement data warehouse for student academic processes, specifically focusing on "Formulir Rencana Studi Mahasiswa" (Student Study Plan Form) and "Rekap Perkuliahan" (Lecture Recapitulation). My Role Focused on scripting ELT pipeline written in My SQL. I Wrote 2 Script, the first Script is for One-Time / Historical ETL for initiating datawarehouse and the sceond script is for Inremental ETL for implementing Change Data Capture along with database update and Slowly Changing Dimension per attribute.
+- **Technology Used** : MySQL, Power BI
+- **Final Result** : [*Project Document*](https://drive.google.com/file/d/1mr6tV--oM9Ad2tPBzIO4XlhvCP9oRATN/view?usp=sharing)
